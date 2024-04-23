@@ -9,7 +9,9 @@ Este projeto é um conversor de moedas que permite converter valores de Real par
 
 Nesse projeto aprendi querySelector, function, if, innerHTML, addEventListener e NumberFormat no JavaScript.
 
->Linkedin:
+>Linkedin: https://www.linkedin.com/in/rphgomes/
 
->Github:
+>Github: https://github.com/rapharzk
+
+<img src="./assets/projeto.png" />
 
